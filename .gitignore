@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.env-*
+.venv/
+venv/
+__pycache__/
+*.pyc
+.runtime/
+node_modules/
+.DS_Store
+data/*
+!data/README.md

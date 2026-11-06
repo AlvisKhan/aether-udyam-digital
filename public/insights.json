@@ -1,0 +1,99 @@
+{
+  "scope": "Apr–Jun 2026 · 5,000 supplied synthetic small-business leads",
+  "leads": 5000,
+  "activated": 368,
+  "activation_rate": 7.36,
+  "activation_days": 17.6,
+  "cac": 15053,
+  "follow_up_calls": 3.0,
+  "funnel": {
+    "Lead": 5000,
+    "Contacted": 3406,
+    "Needs assessed": 1974,
+    "Quote accepted": 861,
+    "KYC complete": 588,
+    "Activated": 368
+  },
+  "segments": [
+    {
+      "segment": "Micro retail & services",
+      "leads": 2709,
+      "activated": 110,
+      "activation_rate": 4.06,
+      "mean_mrr": 2505,
+      "cac": 20007,
+      "churn_rate": 22.73
+    },
+    {
+      "segment": "Professional offices",
+      "leads": 1247,
+      "activated": 138,
+      "activation_rate": 11.07,
+      "mean_mrr": 6796,
+      "cac": 10695,
+      "churn_rate": 13.77
+    },
+    {
+      "segment": "Small manufacturers",
+      "leads": 289,
+      "activated": 37,
+      "activation_rate": 12.8,
+      "mean_mrr": 19980,
+      "cac": 15324,
+      "churn_rate": 8.11
+    },
+    {
+      "segment": "Small multi-site businesses",
+      "leads": 755,
+      "activated": 83,
+      "activation_rate": 10.99,
+      "mean_mrr": 31233,
+      "cac": 15614,
+      "churn_rate": 10.84
+    }
+  ],
+  "quote_barriers": [
+    {
+      "reason": "Price too high",
+      "count": 414
+    },
+    {
+      "reason": "Competitor offered cheaper plan",
+      "count": 207
+    },
+    {
+      "reason": "Quote too complex to understand",
+      "count": 206
+    },
+    {
+      "reason": "Quote took too long to arrive",
+      "count": 179
+    },
+    {
+      "reason": "Decided to wait",
+      "count": 107
+    }
+  ],
+  "drop_reasons": {
+    "Installation delayed beyond 21 days": 98,
+    "Not interested on first call": 470,
+    "Decided to wait": 107,
+    "Competitor offered cheaper plan": 207,
+    "Quote took too long to arrive": 179,
+    "Owner had no time for a visit": 531,
+    "Quote too complex to understand": 206,
+    "Locked in with current provider": 325,
+    "Price too high": 414,
+    "Unreachable after 3 attempts": 805,
+    "Document details did not match": 47,
+    "Visit not scheduled by sales": 296,
+    "Wrong or invalid number": 319,
+    "Only wanted a mobile plan": 280,
+    "Found paperwork too long": 79,
+    "Site not feasible for fibre": 41,
+    "Missing GST or Udyam document": 94,
+    "Authorised signatory not available": 53,
+    "First payment failed": 28,
+    "Customer cancelled before install": 53
+  }
+}
